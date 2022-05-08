@@ -4,8 +4,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- Learning new things
-- Doing lots of hobby projects (but i have hard time finishing them)
+- I love learning new things
+- I do lots of hobby projects (but i have hard time finishing them)
 - Future SSPŠaG cyber-sec student
 
 <h3> 🛠 &nbsp;Stuff I Use</h3>
