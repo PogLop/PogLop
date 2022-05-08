@@ -1,16 +1,39 @@
-### Hi there 👋
+### Yo Fellas 👋
 
-<!--
-**PogLop/PogLop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My name is Prokop Schovanec</h2>
 
-Here are some ideas to get you started:
+<h3> 💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning new things
+- Doing lots of hobby projects (but i have hard time finishing them)
+- Future SSPŠaG cyber-sec student
+
+<h3> 🛠 &nbsp;Stuff I Use</h3>
+
+- 🔮
+  ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- 🔧
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- 🎨
+  ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+  ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poglop&show_icons=true&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=poglop&theme=gruvbox&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
+
+<h3> 🔌 &nbsp;Contact Me </h3>
+
+<p align="center">
+<a href="https://twitter.com/poklop_"><img src="https://img.shields.io/badge/-Twitter.com/poklop_-3423A6?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="mailto:poklopisko@gamil.com"><img src="https://img.shields.io/badge/-poklopisko@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
