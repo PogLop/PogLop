@@ -2,6 +2,8 @@
 
 <h2>My name is Prokop Schovanec</h2>
 
+![Visitors](https://komarev.com/ghpvc/?username=poglop&color=green)
+
 <h3> 💻 &nbsp;About Me </h3>
 
 - I love learning new things
