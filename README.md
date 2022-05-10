@@ -34,7 +34,7 @@
 
 <h3> 🔌 &nbsp;Contact Me </h3>
 
-<p align="center">
+<p>
 <a href="https://twitter.com/poklop_"><img src="https://img.shields.io/badge/-Twitter.com/poklop_-3423A6?style=flat-square&logo=twitter&logoColor=white"/></a>
 <a href="mailto:poklopisko@gamil.com"><img src="https://img.shields.io/badge/-poklopisko@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
