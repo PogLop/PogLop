@@ -7,6 +7,7 @@
 - I love learning new things
 - I do lots of hobby projects (but i have hard time finishing them)
 - Technology bodge master
+- Brainfu_k enjoyer
 - Future SSPŠaG cyber-sec student
 
 <h3> 🛠 &nbsp;Stuff I Use</h3>
