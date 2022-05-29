@@ -27,7 +27,7 @@
   ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 <p>
-<a href="https://github.com/AVS1508">
+<a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poglop&show_icons=true&theme=gruvbox" />
 </a>
 </p>
