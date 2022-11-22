@@ -1,7 +1,7 @@
 #### Ahoj! (Hi!)👋
 Im high school student interested in random-ass projects, automatization (coz im lazy af), linux and music.
 ##### Bio
-- 🌱 Learning ASM
+- 🌱 Learning ASM x86
 - 🔐 Studying cyber security at SSPŠaG
 - ⚙ I can code with Python, HTML + CSS, GdScript, PHP, Bash and Lua
 - 🛠 I use these tools - Godot, VScode, Inkscape, Bespoke synth, Firebase and much more
